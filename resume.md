@@ -3,63 +3,47 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Senior Research Assistant, *Federal Reserve Bank of Boston*
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
-
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2014-2018`
+__Colby College__
+Economics-Mathematics, Statistic
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2018`
+Phi Beta Kappa
+Mu Sigma Rho
+
+`2017`
+Colby Economics Department Faculty Prize 
 
 ## Publications
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+`2017`
+An Assessment of the National Establishment Time Series (NETS) Database, FEDS Working Paper Series
 
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
+`2017`
+The Relationship Between Economic Freedom and Economic Dynamism, Contemporary Economic Policy
 
 ## Presentations
 
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+`2017`
+Employer Mandates and Firm Dynamics, Colby Liberal Arts Symposium, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
 
 
-## Occupation
+## Other Experience
 
-`Current`
-__Current Job Title__, Current Employer 
+`2017`
+__Project Intern__, Federal Reserve Board of Governors
 
-- Task
-- Task
+`2016`
+__Data Analyst Intern__, OmniClaim 
 
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
 
 
 
