@@ -1,15 +1,13 @@
 ---
 layout: resume
 ---
-## Currently
-
 Senior Research Assistant, *Federal Reserve Bank of Boston*
 
 ## Education
 
 `2014-2018`
 __Colby College__
-Economics-Mathematics, Statistic
+Economics-Mathematics, Statistics
 
 ## Awards
 
@@ -18,7 +16,7 @@ Phi Beta Kappa
 Mu Sigma Rho
 
 `2017`
-Colby Economics Department Faculty Prize 
+Colby Economics Department Faculty Prize (for high scholarly attainment)
 
 ## Publications
 
