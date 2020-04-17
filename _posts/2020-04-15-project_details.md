@@ -1,3 +1,12 @@
+---
+layout: post
+title: Final Project
+modified: 3/29/2020, 9:20:12
+excerpt: "Details behind the main analysis"
+comments: true
+category: blog
+---
+
 Final Project Implementation Details
 ------------------------------------
 
