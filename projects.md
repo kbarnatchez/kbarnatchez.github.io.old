@@ -4,6 +4,8 @@ layout: page
 
 Some stuff I've worked on in the past few years, mostly pointed towards topics in biostats, health economics and sports. Projects range in their seriousness, from school projects to journal papers to small apps for visualizing data. If anything catches your interest, feel free to click to associated link to the project!
 
+**The views reflected in these projects are mine alone and don't reflect the views of any schools/employers/institutions I have been/am currently affiliated with**.
+
 # Biostats
 
 ### Centenarians
