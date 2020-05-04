@@ -15,7 +15,7 @@ Some stuff I've worked on in the past few years, mostly pointed towards topics i
 ### [Effects of the ACA's Employer Mandate on Businesses](http://www.colby.edu/econ/wp-content/uploads/sites/73/2018/08/kb_thesis-4.pdf)
 (My senior thesis!) Many people in the US depend on employer-provided plans for health insurance coverage, and in many countries universal plans are implemented through employers. The Employer Mandate, a policy embedded within the affordable care act, tried to move the US closer to this popular healthcare model by requiring firms with 50 or more employees to offer insurance plans, or else pay a fine. This project explores some of the potential long-term effects of the policy, such as 1) **is the policy effective in increasing overall insurance coverage?** 2) **are small businesses affected differently than large ones?**  and (importantly) 3) **under what circumstances are people better off under this policy?**
 
-### Wages and Health Insurance Trade-offs
+### [Wages and Health Insurance Trade-offs](https://kbarnatchez.github.io/assets/kmb_ec318.pdf)
 
 # Sports
 
