@@ -16,6 +16,7 @@ Some stuff I've worked on in the past few years, mostly pointed towards topics i
 (My senior thesis!) Many people in the US depend on employer-provided plans for health insurance coverage, and in many countries universal plans are implemented through employers. The Employer Mandate, a policy embedded within the affordable care act, tried to move the US closer to this popular healthcare model by requiring firms with 50 or more employees to offer insurance plans, or else pay a fine. This project explores some of the potential long-term effects of the policy, such as 1) **is the policy effective in increasing overall insurance coverage?** 2) **are small businesses affected differently than large ones?**  and (importantly) 3) **under what circumstances are people better off under this policy?**
 
 ### [Wages and Health Insurance Trade-offs](https://kbarnatchez.github.io/assets/kmb_ec318.pdf)
+How much do people value health insurance benefits vs. wages/salaries? Or, more directly, **how much of a pay cut would the average person be willing to take to switch from a job with health benefits to a job without them?** This is a very popular question in health economics, and it turns out to be very difficult to address with standard statistical techniques. In this paper, I try to circumvent some of the statistical issues that arise with standard analyses by focusing on employment changes during the rollout of the Affordable Care Act's [Individual Mandate](https://en.wikipedia.org/wiki/Individual_mandate) policy.
 
 # Sports
 
