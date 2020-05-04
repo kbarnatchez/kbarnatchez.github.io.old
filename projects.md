@@ -14,7 +14,7 @@ layout: page
 
 # Sports
 
-## [Optimal 4x100 Relay Strategies](https://kbarnatchez.github.io/assets/kb_exchanges (4).pdf)
+## [Optimal 4x100 Relay Strategies](https://kbarnatchez.github.io/assets/kb_exchanges.pdf)
 
 ## RunPlots: Strava Data Visualization
 A very lazily named RShiny app that gives Strava users numerous ways to visualize their runs that are not currently offered on the app.
