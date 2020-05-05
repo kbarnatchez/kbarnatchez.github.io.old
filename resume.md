@@ -10,7 +10,7 @@ __Colby College__
 Economics-Mathematics, with honors
 Statistics
 
-*Thesis*: <a href="http://www.colby.edu/econ/wp-content/uploads/sites/73/2018/08/kb_thesis-4.pdf" </a>
+*Thesis*: [Employer Mandates and Firm Dynamics](http://www.colby.edu/econ/wp-content/uploads/sites/73/2018/08/kb_thesis-4.pdf)
 
 ## Awards and honors
 
@@ -31,16 +31,10 @@ NESCAC All-Academic Team
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 `2017`
-<a href="https://www.federalreserve.gov/econres/feds/an-assessment-of-the-national-establishment-time-series-nets-database.htm" </a> An Assessment of the National Establishment Time Series (NETS) Database, FEDS Working Paper Series
+[An Assessment of the National Establishment Time Series (NETS) Database](https://www.federalreserve.gov/econres/feds/an-assessment-of-the-national-establishment-time-series-nets-database.htm), FEDS Working Paper Series
 
 `2017`
-<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/coep.12194" The Relationship Between Economic Freedom and Economic Dynamism </a>, Contemporary Economic Policy
-
-## Presentations
-
-`2017`
-Employer Mandates and Firm Dynamics, Colby Liberal Arts Symposium, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-
+[The Relationship Between Economic Freedom and Economic Dynamism ](https://onlinelibrary.wiley.com/doi/abs/10.1111/coep.12194), Contemporary Economic Policy
 
 ## Other Experience
 
