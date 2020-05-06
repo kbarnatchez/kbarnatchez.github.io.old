@@ -53,7 +53,7 @@ __Teaching Assistant__, Colby College Math/Stats and Economics Departments
 
 
 
-<!-- ### Footer
+<!-- ### Footer 
 
 Last updated: May 2013 -->
 
