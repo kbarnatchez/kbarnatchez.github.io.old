@@ -18,4 +18,4 @@ I run sometimes. When I do I post on [Strava](https://www.strava.com/athletes/40
 
 ### Time
 
-[An excellent movie](https://www.imdb.com/title/tt2194499/) starring Rachel McAdams, Domnhall Gleeson and Bill Nighy, this movie starts as a romantic dramady before morphing into a heartwrenching father-son <> in its final act. I cannot recommend it enough -- it's one of my favorite movies.
+[An excellent movie](https://www.imdb.com/title/tt2194499/) starring Rachel McAdams, Domnhall Gleeson and Bill Nighy, this movie starts as a romantic dramady before morphing into a heartwrenching father-son story in its final act. I cannot recommend it enough -- it's one of my favorite movies.
