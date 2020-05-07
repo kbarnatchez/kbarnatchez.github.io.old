@@ -1,11 +1,8 @@
 ---
 layout: page
+title: About
 excerpt: "About Me..."
 ---
-
-# 
-
-# About
 
 ### me
 I do research assistant things, currently for econ stuff. I like topics in spatial stats, Bayesian methods, and recently biostat methods in clinical trials/sequential treatment designs. 
