@@ -2,6 +2,7 @@
 title: "Excess Deaths Due to Covid"
 author: "Keith Barnatchez"
 date: "July 21, 2020"
+layout: post
 output: html_document
 ---
 
