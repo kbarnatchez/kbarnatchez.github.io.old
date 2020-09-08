@@ -4,15 +4,14 @@ title: About
 excerpt: "About Me..."
 ---
 
-### me
-I do research assistant things, currently for econ stuff. I like topics in spatial stats, Bayesian methods, and recently biostat methods in clinical trials/sequential treatment designs. 
+I'm currently a research assistant at the Federal Reserve Bank of Boston. My research interests include Bayesian applications to clinical trial and dynamic treatment designs, spatial statistics and causal inference. 
 
-I run sometimes. When I do I post on [Strava](https://www.strava.com/athletes/40930645).
+I really value the clear communication of statistical concepts and results. I maintain a blog covering various topics in biostatistics and economics -- some of my favorite posts include:
+- Link
+- Link
 
-### this site
-- An attempt to motivate myself to be more productive and become a better writer.
-- A place to post side/mini projects, like this one.
+Before working at the Boston Fed, I studied at Colby College and competed on the track & field team. I still try to run frequently and post most of my runs on [www.strava.com][Strava].
 
-### Time
+All views expressed on this page are my own and don't necessarily reflect the views of any of my current or prior affiliations.
 
-[An excellent movie](https://www.imdb.com/title/tt2194499/) starring Rachel McAdams, Domnhall Gleeson and Bill Nighy, this movie starts as a romantic dramady before morphing into a heartwrenching father-son story in its final act. I cannot recommend it enough -- it's one of my favorite movies.
+
