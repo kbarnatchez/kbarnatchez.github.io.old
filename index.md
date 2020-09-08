@@ -10,6 +10,6 @@ I really value the clear communication of statistical concepts and results. I ma
 - Link
 - Link
 
-Before working at the Boston Fed, I studied at Colby College and competed on the track & field team. I still try to run frequently, and post most of my runs on [https://www.strava.com/athletes/40930645](Strava). Besides running, I've recently started getting into biking and I spend most of my other free time cooking and/or thinking about food.
+Before working at the Boston Fed, I studied at Colby College and competed on the track & field team. I still try to run frequently, and post most of my runs on [Strava](https://www.strava.com/athletes/40930645). Besides running, I've recently started getting into biking and I spend most of my other free time cooking and/or thinking about food.
 
 All views expressed on this page are my own and don't necessarily reflect the views of any of my current or prior affiliations.
