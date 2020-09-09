@@ -18,6 +18,17 @@ Some stuff I've worked on in the past few years, mostly pointed towards topics i
 ### [Wages and Health Insurance Trade-offs](https://kbarnatchez.github.io/assets/kmb_ec318.pdf)
 How much do people value health insurance benefits vs. wages/salaries? Or, more directly, **how much of a pay cut would the average person be willing to take to switch from a job with health benefits to a job without them?** This is a very popular question in health economics, and it turns out to be very difficult to address with standard statistical techniques. In this paper, I try to circumvent some of the statistical issues that arise with standard analyses by focusing on employment changes during the rollout of the Affordable Care Act's [Individual Mandate](https://en.wikipedia.org/wiki/Individual_mandate) policy.
 
+### [Family Structure and Unexpected Health Shocks](https://kbarnatchez.github.io/assets/kb_ec475_final_paper.pdf)
+
+# Macroeconomics
+
+### [The National Establishment Time Series (NETS) Database](https://www.federalreserve.gov/econres/feds/files/2017110pap.pdf)
+Detailed data on United States businesses is very hard to come by. Unless you have access to government sources like the Longitudinal Businesses Database (LBD), the majority of alternatives are regionally-aggregated to avoid confidentiality issues. 
+
+### [The Impacts of Various Economic Policies on Economic Dynamism]
+
+
+
 # Sports
 
 ### [Optimal 4x100 Relay Strategies](https://kbarnatchez.github.io/assets/kb_exchanges.pdf)
