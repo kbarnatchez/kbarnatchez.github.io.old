@@ -16,7 +16,7 @@ There a lot of attractive features to this modeling approach (though there are p
 
 While I have outlined it here, there has already been plenty of dicussion on the use of trade weights in measuring cross-country spillovers. Interestingly, within the spatial econometrics framework using trade as a spatial weight, researchers rarely call attention to the fact that global trade is a *network*. There is a real opportunity to combine the methods used in network analysis (NA), another long popular field in other discliplines that is now gaining traction in economics, with spatial econometrics. 
 
-One of the main contributions of NA is the development of various criteria for measuring *network centrality* -- how important each particular agent (i.e. node) is within a network. I will not get into all of these in this post, but will instead focus on the measure of *Katz centrality*. Suppose one estimates a simple spatial autoregressive (SAR) model with trade weights $$W$$, hoping to quantify the spillover effects on shocks to GDP ($y$) in various countries:
+One of the main contributions of NA is the development of various criteria for measuring *network centrality* -- how important each particular agent (i.e. node) is within a network. I will not get into all of these in this post, but will instead focus on the measure of *Katz centrality*. Suppose one estimates a simple spatial autoregressive (SAR) model with trade weights $W$, hoping to quantify the spillover effects on shocks to GDP ($y$) in various countries:
 
 $y = \rho W y + \beta X + \varepsilon$. 
 
