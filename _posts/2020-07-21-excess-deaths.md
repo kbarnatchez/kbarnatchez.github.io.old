@@ -7,6 +7,8 @@ category: blog
 output: html_document
 ---
 
+G 
+
 ``` r
 # Load in main data
 data<-read.csv('Excess_Deaths_Associated_with_COVID-19.csv',sep=',')
