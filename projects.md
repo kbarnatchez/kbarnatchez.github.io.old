@@ -8,7 +8,7 @@ Some stuff I've worked on in the past few years, mostly pointed towards topics i
 
 # Biostats
 
-### [Centenarians]((https://kbarnatchez.github.io/assets/final_project.pdf)
+### [Centenarians](https://kbarnatchez.github.io/assets/final_project.pdf)
 A popular question in biostats surrounds the determinants of healthy aging. Naturally, there is promise in studying characteristics of the offspring of people who have exhibited exceptional longevity -- in particular, centenarians. In this short report for my Bayesian Modeling for Public Health course, I explore whether centernarian offspring tend to exhibit healthier cognitive aging by analysing data from Boston University's Telephone Interview for Cognitive Status (TICS) survey. There are frequent, non-random instances of missing values in the TICS data which, along with the data's hierarchical structure, lends itself to well to Bayesian methods. Among my findings are that centenarian offspring tend to have higher baseline levels of cognitive function, but no marked difference in rates of cognitive decline relative to offspring of non-centenarians.
 
 # Health Economics
