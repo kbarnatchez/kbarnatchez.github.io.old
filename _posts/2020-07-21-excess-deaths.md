@@ -1,10 +1,10 @@
 ---
-title: "Excess Deaths Due to Covid"
-author: "Keith Barnatchez"
-date: "July 21, 2020"
 layout: post
+title: "Excess Deaths Due to Covid"
+modified: 9/8/2020, 9:20:12
+excerpt: "Getting a better sense of COVID's toll"
+comments: true
 category: blog
-output: html_document
 ---
 
 G 
