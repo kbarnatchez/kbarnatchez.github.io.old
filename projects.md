@@ -1,5 +1,6 @@
 ---
-layout: resume
+layout: page
+title: Projects
 ---
 
 # Publications and Working Papers
