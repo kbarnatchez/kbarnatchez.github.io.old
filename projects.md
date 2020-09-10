@@ -2,9 +2,17 @@
 layout: page
 ---
 
-Some stuff I've worked on in the past few years, mostly pointed towards topics in biostats, health economics and sports. Projects range in their seriousness, from school projects to journal papers to small apps for visualizing data. If anything catches your interest, feel free to click to associated link to the project!
+# Publications and Working Papers
 
-**The views reflected in these projects are mine alone and don't reflect the views of any schools/employers/institutions I have been/am currently affiliated with**.
+### [The National Establishment Time Series (NETS) Database](https://www.federalreserve.gov/econres/feds/files/2017110pap.pdf)
+Detailed data on United States businesses is very hard to come by. Unless you have access to government sources like the Longitudinal Businesses Database (LBD), the majority of alternatives are regionally-aggregated to avoid confidentiality issues. While interning at the Federal Reserve Board of Governors, my main project involved doing a lot of diagnostic work with a potential alternative source called the National Establishment Time Series (NETS), which the Fed had purchased access to. The NETS database is impressive in its scope, but came with some questionable lapses in coverage (in particular, construction and mining industries) that we wanted to understand better. To assess its re(liability as a static indicator of business activity, my bosses and I analyzed NETS relative to other well-known, establishment-level government data sources (such as the QCEW) in static environments (check out the dynamic analysis, which came out a few years later, [here](https://conference.nber.org/conf_papers/f142811.pdf)). 
+
+### [The Impacts of Various Economic Policies on Economic Dynamism](https://kbarnatchez.github.io/assets/coep.12194.pdf)
+A key component of any healthy economy is the constant churning of businesses and employment -- as new, innovative businesses open and expand, older and less innovative businesses close up. The workers and equipment from these closing businesses get reallocated to other opening and existing businesses, and the cycle continues on and on. This phenomenom, sometimes referred to as _economic dynamism_, ensures that productive employees and equipment are constantly flowing towards compatible businesses. In this paper, which I cowrote with Rob Lester while working as his RA, we look at the effects of various government policies (e.g. property taxes, labor market regulations ) on different measures of economic dynamism. The goal was to provide policymakers an idea of the "levers" they can pull when wanting to adjust economic dynamism -- we do not attempt to analyze the implicit tradeoffs, as this itself could be the topic of its own paper! Among our most interesting findings is that higher levels of taxation are often associated with higher levels of dynamism, which suggests that corporate tax breaks may not be as beneficial as they're often advocated to be.
+
+# Other projects
+
+Below is a compilation of stuff I've worked on in the past few years, mostly pointed towards topics in biostats, health economics and sports. Projects range in their seriousness, from school projects to journal papers to small apps for visualizing data. If anything catches your interest, feel free to click to associated link to the project!
 
 # Biostats
 
@@ -19,20 +27,13 @@ A popular question in biostats surrounds the determinants of healthy aging. Natu
 ### [Wages and Health Insurance Trade-offs](https://kbarnatchez.github.io/assets/kmb_ec318.pdf)
 How much do people value health insurance benefits vs. wages/salaries? Or, more directly, **how much of a pay cut would the average person be willing to take to switch from a job with health benefits to a job without them?** This is a very popular question in health economics, and it turns out to be very difficult to address with standard statistical techniques. In this paper, I try to circumvent some of the statistical issues that arise with standard analyses by focusing on employment changes during the rollout of the Affordable Care Act's [Individual Mandate](https://en.wikipedia.org/wiki/Individual_mandate) policy.
 
-# Macroeconomics
-
-### [The National Establishment Time Series (NETS) Database](https://www.federalreserve.gov/econres/feds/files/2017110pap.pdf)
-Detailed data on United States businesses is very hard to come by. Unless you have access to government sources like the Longitudinal Businesses Database (LBD), the majority of alternatives are regionally-aggregated to avoid confidentiality issues. While interning at the Federal Reserve Board of Governors, my main project was working with a potential alternative source called the National Establishment Time Series (NETS), which the Fed had purchased access to. To assess its reliability as a static , my bosses and I analyzed NETS relative to other establishment-level government data sources (such as the QCEW) in static environments (check out the dynamic analysis, which came out a few years later, [here](https://conference.nber.org/conf_papers/f142811.pdf)). 
-
-### [The Impacts of Various Economic Policies on Economic Dynamism](https://kbarnatchez.github.io/assets/coep.12194.pdf)
-A key component of any healthy economy is the constant churning of businesses and employment -- as new, innovative businesses open and expand, older and less innovative businesses close up. The workers and equipment from these closing businesses get reallocated to other opening and existing businesses, and the cycle continues on and on. This phenomenom, sometimes referred to as _economic dynamism_, ensures that productive employees and equipment are constantly flowing towards compatible businesses. In this paper, which I cowrote with Rob Lester while working as his RA, we look at the effects of various government policies (e.g. property taxes, labor market regulations ) on different measures of economic dynamism. The goal was to provide policymakers an idea of the "levers" they can pull when wanting to adjust economic dynamism -- we do not attempt to analyze the implicit tradeoffs, as this itself could be the topic of its own paper! Among our most interesting findings is that higher levels of taxation are often associated with higher levels of dynamism, which suggests that corporate tax breaks may not be as beneficial as they're often advocated to be.
-
 # Sports
 
 ### [Optimal 4x100 Relay Strategies](https://kbarnatchez.github.io/assets/kb_exchanges.pdf)
 While at Colby I (mediocrely) ran on the track team. We had one of the better 4x100 teams in our conference, but with one caveat: we got DQ'd a LOT for failed handoffs, most notably at our conference championship meet where we finished the event in first, only to find out that we'd be DQ'd for a handoff that occurred just outside of the allowed boundaries. During the time that this happened, I was taking a math modeling course that focused on modeling strategies for sports. 
 
 ### RunPlots: Strava Data Visualization
-A very lazily named RShiny app that gives Strava users numerous ways to visualize their runs that are not currently offered on the app.
+A very lazily named RShiny app that gives Strava users numerous ways to visualize their runs that are not currently offered on the app. A work in progress that will be updated soon!
 
-### Forecasting NBA Games/Point Spreads
+
+**The views reflected in these projects are mine alone and don't reflect the views of any schools/employers/institutions I have been/am currently affiliated with**.
