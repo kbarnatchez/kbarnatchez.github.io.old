@@ -1,6 +1,10 @@
 ---
 layout: resume
 ---
+
+You can also view my CV [here](https://kbarnatchez.github.io/assets/cv.pdf).
+
+## Current Position
 Senior Research Assistant, *Federal Reserve Bank of Boston*
 
 ## Education
