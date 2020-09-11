@@ -11,6 +11,8 @@ date: "July 21, 2020"
 excerpt: "Getting a better sense of COVID's toll"
 layout: post
 category: blog
+tags: [covid, CDC, health]
+modified: 9/10/2020, 9:31:14
 ---
 
 With the COVID-19 pandemic raging for roughly half a year now, numerous
