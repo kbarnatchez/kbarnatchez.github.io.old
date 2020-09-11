@@ -31,10 +31,10 @@ insurance because of a job layoff and then suffering a cardiac arrest).
 ### Putting excess deaths measures in context
 
 It can be hard to interpret excess deaths totals by themselves. If we
-let \(E_i\) and \(D_i\) denote the number cumulative number of excess
-non-COVID) and observed (COVID) deaths, then the ratio
-\(\frac{E_i}{D_i}\) gives us a sense of how large that state’s count of
-excess deaths is relative to its count of COVID deaths. For states with
+let $E\_i$ and $D\_i$ denote the number cumulative number of excess
+non-COVID) and observed (COVID) deaths, then the ratio $$ gives us a
+sense of how large that state’s count of excess deaths is relative to
+its count of COVID deaths. For states with
 
 ### Working with the CDC excess deaths data
 
