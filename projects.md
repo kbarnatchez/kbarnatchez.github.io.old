@@ -31,7 +31,7 @@ How much do people value health insurance benefits vs. wages/salaries? Or, more 
 # Sports
 
 ### [Optimal 4x100 Relay Strategies](https://kbarnatchez.github.io/assets/kb_exchanges.pdf)
-While at Colby I (mediocrely) ran on the track team. We had one of the better 4x100 teams in our conference, but with one caveat: we got DQ'd a LOT for failed handoffs, most notably at our conference championship meet where we finished the event in first, only to find out that we'd be DQ'd for a handoff that occurred just outside of the allowed boundaries. During the time that this happened, I was taking a math modeling course that focused on modeling strategies for sports. 
+While at Colby I ran on the track team. We had one of the better 4x100 teams in our conference, but with one caveat: we got DQ'd a _lot_ for failed handoffs, most notably at our conference championship meet where we finished the event in first, only to find out that we'd be DQ'd for a handoff that occurred just outside of the allowed boundaries. During the time that this happened, I was taking a math modeling course that focused on modeling sports phenomena. We had free reign to choose a topic for our final project, and it seemed appropriate to spend the time working on a model that could help us stop getting DQ'd so much!
 
 ### RunPlots: Strava Data Visualization
 A very lazily named RShiny app that gives Strava users numerous ways to visualize their runs that are not currently offered on the app. A work in progress that will be updated soon!
